@@ -11,5 +11,5 @@ def syracuse(u):
     print(iter," : iterations")    
     return u
 
-number =input()
+number =int(input())
 syracuse(number)
